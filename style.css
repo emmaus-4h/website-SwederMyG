@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: rgb(0, 0, 0);  
     
-    color: #303030;
+    color:#5b775d;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -31,6 +31,7 @@ header {
 footer {
     text-align: center;
     padding-bottom: 10px;
+    clear: both;
 }
 
 
@@ -46,7 +47,7 @@ img.zweefLinks {
 }
 
 a {
-    color: skyblue;
+    color: #5b775d;
     text-decoration: none;
 }
 
@@ -60,7 +61,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #080303;
     overflow: hidden;
 }
 
@@ -70,7 +71,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color:rgb(44, 70, 41);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -86,4 +87,17 @@ nav li a.active {
 
 
 
+
+.gerrard{
+  width:300px;
+  float: right;
+}
+.vvd{
+  width: 300px;
+  float: left;
+}
+
+.anfield{
+  width: 300px;
+}
 
