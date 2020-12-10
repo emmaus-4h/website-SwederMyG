@@ -1,0 +1,56 @@
+<html>
+
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Dit is een eenvoudige website</title>
+    </head>
+    
+    <body>
+        <main>
+            <header>
+                <h1 id="hoofdtitel" class="belangrijk"> Liverpool FC</h1>
+            </header>
+            
+            <nav>
+                <ul>
+                 <li><a class="active"
+                  href="LiverpoolFans">Fans van Liverpool
+                  </li> </a>
+                    <li><a href="index.html">History</a></li>
+                    <li><a href="overmij.html"> Spelers </a></li>
+                    <li><a href="Anfield.html"> Anfield</a></li>
+                    <li><a
+                    href="Legends.html">Legends</a></li>
+                </ul>
+            </nav>
+            <p>Champions League (12x)
+2001/02, 2002/03, 2004/05, 2005/06, 2006/07, 2007/08, 2008/09, 2009/10, 2014/15, 2017/18, 2018/19, 2019/20, 2020/21</p>
+<p>Europacup I (12x)
+1964/65, 1966/67, 1973/74, 1976/77, 1977/78, 1978/79, 1979/80, 1980/81, 1981/82, 1982/83, 1983/84, 1984/85</p>
+<p>Europa League (5x)
+2009/10, 2010/11, 2012/13, 2014/15, 2015/16</p>
+<p>Europacup II (5x)
+1965/66, 1971/72, 1974/75, 1992/93, 1996/97</p>
+<p>UEFA Cup (9x)
+1972/73, 1975/76, 1991/92, 1995/96, 1997/98, 1998/99, 2000/01, 2002/03, 2003/04</p>
+<p>Jaarbeursstedenbeker (4x)
+1967/68, 1968/69, 1969/70, 1970/71</p>
+<p>Super Cup (6x)
+1977, 1978, 1984, 2001, 2005, 2019</p>
+
+            </article>
+        
+            <footer>
+                <hr/>
+                <p>contact zoeken?
+                  gri@emmauscollege.nl
+      
+                </p>
+                <p class="smalltext">copyright A.P. Cammeraat 2016</p>
+            </footer>
+        
+        </main>
+    
+    </body>
+
+</html>
