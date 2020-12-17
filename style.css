@@ -1,6 +1,7 @@
 /* Basislayout */
 
-html, body {
+html
+body {
     height: 100%;
     padding: 0;
     background-color: rgb(0, 0, 0);  
@@ -34,7 +35,16 @@ footer {
     clear: both;
 }
 
+img {
+  width: 250px;
+  border: solid 2px white;
+}
 
+#oude-liv {
+  width: 400px;
+  height: 300px;
+  
+}
 /* specifieke stijlen */
 
 img.zweefLinks {
@@ -98,6 +108,14 @@ nav li a.active {
 }
 
 .anfield{
+  width: 500px;
+  float: right;
+}
+
+.kampioen{
   width: 300px;
 }
 
+.beker{
+  width: 300px;
+}
